@@ -17,8 +17,44 @@ p.navbar-text {
 #signin{
 	padding-right: -12%;
 }
-#ilowtopLeft{
-	height: 150px;
-	width:  150px;
+#pict02{
+   
+	height: 80px;
+	width:  175px;
 
+}
+#pict03{
+    height: 350px;
+    width: 350px;
+}
+
+.container{
+    max-width:970px;
+}
+.form-group{
+    
+}
+h2{
+   line-height: 1;
+   margin-bottom: 15px;
+}
+.contactbox{
+    background-color: beige;
+}
+.form-group {
+    margin-left: 25%;
+    width: 88%;
+}
+.dropdown {
+ 
+    width: 88%;
+}
+footer{
+    margin-top: 9%;
+}
+ #generalinfo {
+    margin-left: 7%;
+}
+.tablegroup{
+    background-color: beige;
 }
